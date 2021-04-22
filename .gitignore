@@ -5,3 +5,9 @@
 Pipfile
 Pipfile.lock
 
+# Database
+db.sqlite3
+
+# Migrations
+blog/migrations/
+
