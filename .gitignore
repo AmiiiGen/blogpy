@@ -1,0 +1,7 @@
+# OS stuff
+.idea/
+
+# Virtual Env
+Pipfile
+Pipfile.lock
+
