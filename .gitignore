@@ -1,6 +1,9 @@
 # OS stuff
 .idea/
 
+# Byte-compiled / optimized / DLL files
+blogpy/__pycache__/
+
 # Virtual Env
 Pipfile
 Pipfile.lock
